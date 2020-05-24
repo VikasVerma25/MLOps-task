@@ -20,4 +20,4 @@ This job will help us to change the hyper parameters. After this job, Job 2 will
 # Job 5: 
 This job is just to monitor the container. If container fails it will launch it again.
 
-[Click here For complete explanation of this project](https://www.linkedin.com/post/edit/6670275769748598784/)
+[Click here For complete explanation of this project](https://www.linkedin.com/pulse/machine-learning-devops-vikas-verma)
