@@ -49,7 +49,7 @@ port = 465  # For SSL
 smtp_server = "smtp.gmail.com"
 sender_email = "vikasverma.new1@gmail.com"  # Enter your address
 receiver_email = "vikasverma250999@gmail.com"  # Enter receiver address
-password = 'vikas@250999'
+password = '' # Enter password
 if accuracy > 98:
     message = """\
 Subject: model-prediction 
